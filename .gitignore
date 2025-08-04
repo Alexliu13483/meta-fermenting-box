@@ -108,7 +108,7 @@ dmypy.json
 
 # IDE specific files
 # VSCode
-.vscode/
+.vscode
 
 # PyCharm
 .idea/
